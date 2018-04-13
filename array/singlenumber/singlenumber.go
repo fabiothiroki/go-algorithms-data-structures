@@ -1,5 +1,6 @@
 package main
 
+// SingleNumber returns an element from an array that appears one time
 func SingleNumber(nums []int) int {
 	if len(nums) == 1 {
 		return nums[0]
