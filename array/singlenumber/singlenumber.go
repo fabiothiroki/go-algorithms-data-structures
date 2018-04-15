@@ -1,4 +1,4 @@
-package main
+package singlenumber
 
 // SingleNumber returns an element from an array that appears one time
 func SingleNumber(nums []int) int {
