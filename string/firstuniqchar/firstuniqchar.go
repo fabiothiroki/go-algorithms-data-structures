@@ -1,4 +1,4 @@
-package main
+package firstuniqchar
 
 // FirstUniqChar returns the index of the first char that appears one time
 func FirstUniqChar(s string) int {
