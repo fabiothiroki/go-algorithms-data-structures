@@ -6,4 +6,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/699f5d5ee5a117be6155/maintainability)](https://codeclimate.com/github/fabiothiroki/go-algorithms-data-structures/maintainability)
 
 
-Resolutions of common algorithms and data structures problems in Golang
+Resolutions of common algorithms and data structures problems in Golang.
