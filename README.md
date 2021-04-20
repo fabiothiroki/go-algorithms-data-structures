@@ -7,3 +7,8 @@
 
 
 Resolutions of common algorithms and data structures problems in Golang
+
+## Run all tests
+```bash
+go test ./... 
+ ```
